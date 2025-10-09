@@ -52,14 +52,9 @@ Based on the data, a **dual-segment product strategy** is recommended to maximiz
 
 ---
 
-## 📁 Repository Structure
+## Live Dashboard
+   **Clickhere(https://app.powerbi.com/view?r=eyJrIjoiOWIzZjFlNDYtYTNhMC00YzQ0LTk1YzktYmVlNzJlYjhiOWQ3IiwidCI6ImE1NzEyZDQ0LWE1MzctNDE3My05Yjg5LTM5YTJmYjQ5YzMwYiJ9)**
 
-| File/Folder | Purpose |
-| :--- | :--- |
-| **[deliverables/Product_market_fit_by_Sourav_Paul.pdf](deliverables/Product_market_fit_by_Sourav_Paul.pdf)** | Contains the final report/presentation PDF |
-| `Dashboar` | (Simulated) Contains code notebooks and SQL scripts for data cleaning, transformation, and visualization |
-| 
-| `README.md` | This file: project overview and key results |
 
 ---
 
