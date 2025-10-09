@@ -35,6 +35,9 @@ The study analyzed six months of customer transaction data to identify **spendin
 - **Prime Target Segment:** **25–45 years** — largest base & highest total income contribution.  
 - **Premium Income Potential:** **45+ age group** shows smaller volume but higher earning capacity.
 
+-**Prime Target Segment:** The **25-45 age group** forms the strongest segment, combining the largest customer base with the highest total income contribution. 
+-**Highest Earning Potential:** The **45+ group** shows premium earning potential, though with a smaller customer volume.
+
 ### 💼 Behavioral & Occupational Trends
 - **Top Spenders:** **Salaried IT professionals** — ₹477M total income, ₹244M total spend.  
 - **Highest Utilization:** IT (51.04%) & Freelancers (45.8%).  
